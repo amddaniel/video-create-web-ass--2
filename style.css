@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.showcase{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: #f50014;
+    position: relative;
+    font-size: 30px;
+    border-color: black;
+}
+.video-container
+{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+
+
+}
+.video-content{
+    z-index: 1;
+
+}
+.video-contenta
+{
+    background-color: blue;
+    color: maroon;
+    line-height: 1-5;
+    padding: 10p 20px;
+    border: 1px solid wheat;
+    text-decoration: none;
+    
+}
+.video-content a:hover{
+    text-decoration: underline;
+    color: chartreuse;
+}
+#story1
+{
+    margin-top: 200px;
+    margin-left: 40px;
+}
+#story1 h1
+{
+    color: darkblue;
+    text-decoration: underline;
+}
+#story1 p::first-letter{
+    color: orangered;
+    font-size: 40px;
+}
+#story1 p{
+    line-height: 1-2;
+}
+.foot{
+    text-align: center;
+}
+#story2
+{
+    margin-top: 200px;
+    margin-left: 40px;
+}
+#story2 h1
+{
+    color: darkblue;
+    text-decoration: underline;
+}
+#story2 p::first-letter{
+    color: orangered;
+    font-size: 40px;
+}
+#story2 p{
+    line-height: 1-2;
+}
+.foot h1{
+    color: rgb(245, 19, 30);
+    text-decoration: underline;
+ 
+   
+}
+i {
+    color: blue;
+    font-size: medium;
+}
+.foot p{
+    color: cornflowerblue;
+    font-style: oblique;
+}
+.foot h2{
+    color: chocolate;
+   font-family: monospace;
+}
+.foot h5{
+    color: blue;
+}

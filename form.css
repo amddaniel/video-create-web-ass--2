@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+label
+{
+    display: block;
+}
+form{
+   border: 2px solid greenyellow;
+   width: 50%;
+   position: absolute;
+   left: 20%;
+   background-color: rgb(199, 14, 14);
+   
+
+}
+button{
+    color: blue;
+    
+}
